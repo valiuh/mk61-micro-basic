@@ -1,0 +1,9 @@
+10 REM Factorial
+20 INPUT n
+30 LET result = 1
+40 FOR i = 1 TO n
+50 LET result = result * i
+60 NEXT
+70 PRINT result
+80 END
+

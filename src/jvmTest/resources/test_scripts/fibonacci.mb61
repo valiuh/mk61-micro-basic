@@ -1,0 +1,10 @@
+10 INPUT n
+20 LET a = 0
+30 LET b = 1
+40 FOR i = 1 TO n
+50 PRINT a
+60 LET t = a + b
+70 LET a = b
+80 LET b = t
+90 NEXT
+100 END
