@@ -21,10 +21,10 @@ Happy coding with Micro Basic!
 ## Artifacts status
 
 ### Validation
-[![Codemagic microbasic-tests status](https://api.codemagic.io/apps/YOUR_CODEMAGIC_APP_ID/microbasic-tests/status_badge.svg)](https://codemagic.io/app/YOUR_CODEMAGIC_APP_ID/microbasic-tests/latest_build)
+[![Codemagic microbasic-tests status](https://api.codemagic.io/apps/6a5efdc680fd52d957a9b699/microbasic-tests/status_badge.svg)](https://codemagic.io/app/6a5efdc680fd52d957a9b699/microbasic-tests/latest_build)
 
 ### Deployment
-[![Codemagic microbasic-publish status](https://api.codemagic.io/apps/YOUR_CODEMAGIC_APP_ID/microbasic-publish/status_badge.svg)](https://codemagic.io/app/YOUR_CODEMAGIC_APP_ID/microbasic-publish/latest_build)
+[![Codemagic microbasic-publish status](https://api.codemagic.io/apps/6a5efdc680fd52d957a9b699/microbasic-publish/status_badge.svg)](https://codemagic.io/app/6a5efdc680fd52d957a9b699/microbasic-publish/latest_build)
 
 ---
 
